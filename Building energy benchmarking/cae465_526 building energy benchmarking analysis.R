@@ -2,7 +2,7 @@
 # Updated on: 09/04/2023
 # Contact: muh182@iit.edu
 
-# // Copyright (c) 2022-2023 Mohammad Heidarinejad
+# // Copyright (c) 2022-2023 The Built Environment Research Group (BERG)
 # // Distributed under the MIT software license, see the accompanying
 # // file LICENSE or http://www.opensource.org/licenses/mit-license.php.
 
